@@ -1,0 +1,46 @@
+{
+  "id": "ad-setja-taekninni-mork",
+  "part": 4,
+  "title": "Að setja tækninni mörk",
+  "text": [
+    "Allir læknar undirrita sérstakan eið eða loforð. Þannig hefur það verið síðan í fornöld. Þeir lofa meðal annars að valda ekki skaða. Margt fólk er farið að hugleiða hvort setja þurfi gervigreind einhverjar slíkar hömlur.",
+    "Isaac Asimov var einn áhrifamesti vísindahugsuður tuttugustu aldar. Honum voru vélmenni afar hugleikin og skrifaði um þau margar greinar og bækur. Hann taldi mikilvægt að setja hugsanlegum vélmennum skýrar reglur og stakk upp á þessum:",
+    "Asimov var ekki mjög bjartsýnn á að mannkynið kynni með allar uppfinningar sínar að fara og sagði: „Hið dapurlegasta við lífið sem við lifum núna er að vísindin auka þekkingu sína hraðar en samfélagið eykur visku sína.“",
+    "Í áðurnefndu viðtali við Demis Hassabis komu svipaðar áhyggjur fram. Hann nefndi þrennt sérstaklega: Að fólk með illan ásetning myndi nota gervigreind á skaðlegan hátt, að kerfin gætu orðið svo öflug og óskiljanleg að þau myndu hætta að lúta stjórn manna og að kapphlaupið um öflugustu tæknina yrði til þess að teknar væru óásættanlegar áhættur með ófyrirsjáanlegum afleiðingum."
+  ],
+  "concepts": [
+    {
+      "term": "Þrjú lögmál Asimovs",
+      "explanation": "Reglur sem rithöfundurinn Isaac Asimov bjó til árið 1942 fyrir vélmenni í sögum sínum. Reglurnar eru: (1) Ekki skaða manneskju, (2) Hlýða mönnum, og (3) Vernda eigin tilvist. Þótt þetta séu úr skáldsögum eru þær mikilvægur grunnur að því hvernig við hugsum um siðfræði tækninnar í dag."
+    },
+    {
+      "term": "Áhyggjur Hassabis",
+      "explanation": "Þrjár helstu hættur sem Demis Hassabis (forstjóri gervigreindarfyrirtækisins DeepMind) bendir á: Að fólk noti gervigreind til illra verka, að kerfin verði svo flókin að við missum stjórn á þeim, og að fljótfærni í tækniþróun verði til þess að við tökum of stóra áhættu."
+    },
+    {
+      "term": "Læknaeiðurinn",
+      "explanation": "Forn eiður sem allir læknar sverja. Þeir lofa m.a. að nota þekkingu sína aðeins til að hjálpa og „valda ekki skaða“. Í dag er vaxandi krafa um að gervigreind eigi að lúta svipuðum reglum, svo tæknin vinni alltaf með mannkyninu en ekki gegn því."
+    }
+  ],
+  "visuals": [
+    {
+      "type": "illustration",
+      "description": "img/4.5.svg"
+    },
+    {
+      "type": "principles",
+      "title": "Lögmál Asimovs",
+      "items": [
+        "Vélmenni má ekki meiða mannveru né með aðgerðaleysi leyfa henni að skaðast.",
+        "Vélmenni verður að hlýða skipunum frá mannverum, nema þær brjóti gegn fyrstu reglunni.",
+        "Vélmenni verður að vernda sjálft sig, svo lengi sem það brýtur ekki fyrstu tvær reglurnar."
+      ],
+      "after": 1
+    },
+    {
+      "type": "interactive",
+      "description": "asimov quiz",
+      "after": 2
+    }
+  ]
+}
